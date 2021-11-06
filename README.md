@@ -10,7 +10,7 @@
 - Entrar na pasta do projeto
 
   ```bash
-  yarn install
+  cd jwt-token
   ```
 
 - Instalar as dependências do projeto
